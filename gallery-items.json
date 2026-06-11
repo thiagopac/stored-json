@@ -22,10 +22,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=SC"
       },
       "image": {
-        "url": "https://placehold.co/600x400/1E293B/FFFFFF.png?text=Mountain+Escape",
-        "thumbnailUrl": "https://placehold.co/150x150/1E293B/FFFFFF.png?text=Mountain",
+        "url": "https://picsum.photos/id/1018/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/1018/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 1240,
@@ -52,10 +52,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=DB"
       },
       "image": {
-        "url": "https://placehold.co/600x400/111827/FACC15.png?text=City+Lights",
-        "thumbnailUrl": "https://placehold.co/150x150/111827/FACC15.png?text=City",
+        "url": "https://picsum.photos/id/1011/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/1011/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 980,
@@ -82,10 +82,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=EW"
       },
       "image": {
-        "url": "https://placehold.co/600x400/F3F4F6/111827.png?text=Workspace",
-        "thumbnailUrl": "https://placehold.co/150x150/F3F4F6/111827.png?text=Desk",
+        "url": "https://picsum.photos/id/180/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/180/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 2150,
@@ -112,10 +112,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=LF"
       },
       "image": {
-        "url": "https://placehold.co/600x400/0EA5E9/FFFFFF.png?text=Ocean+Drive",
-        "thumbnailUrl": "https://placehold.co/150x150/0EA5E9/FFFFFF.png?text=Ocean",
+        "url": "https://picsum.photos/id/1043/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/1043/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 760,
@@ -142,10 +142,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=OR"
       },
       "image": {
-        "url": "https://placehold.co/600x400/92400E/FFFFFF.png?text=Coffee+Stories",
-        "thumbnailUrl": "https://placehold.co/150x150/92400E/FFFFFF.png?text=Coffee",
+        "url": "https://picsum.photos/id/1060/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/1060/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 1340,
@@ -172,10 +172,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=NB"
       },
       "image": {
-        "url": "https://placehold.co/600x400/16A34A/FFFFFF.png?text=Fitness+Routine",
-        "thumbnailUrl": "https://placehold.co/150x150/16A34A/FFFFFF.png?text=Fit",
+        "url": "https://picsum.photos/id/1074/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/1074/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 1840,
@@ -202,10 +202,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=MT"
       },
       "image": {
-        "url": "https://placehold.co/600x400/334155/FFFFFF.png?text=Architecture",
-        "thumbnailUrl": "https://placehold.co/150x150/334155/FFFFFF.png?text=Build",
+        "url": "https://picsum.photos/id/1031/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/1031/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 650,
@@ -232,10 +232,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=LG"
       },
       "image": {
-        "url": "https://placehold.co/600x400/F97316/FFFFFF.png?text=Healthy+Meals",
-        "thumbnailUrl": "https://placehold.co/150x150/F97316/FFFFFF.png?text=Meals",
+        "url": "https://picsum.photos/id/1080/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/1080/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 3020,
@@ -262,10 +262,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=AM"
       },
       "image": {
-        "url": "https://placehold.co/600x400/7C3AED/FFFFFF.png?text=Startup+Notes",
-        "thumbnailUrl": "https://placehold.co/150x150/7C3AED/FFFFFF.png?text=Notes",
+        "url": "https://picsum.photos/id/119/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/119/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 890,
@@ -292,10 +292,10 @@
         "avatarUrl": "https://placehold.co/100x100.png?text=TC"
       },
       "image": {
-        "url": "https://placehold.co/600x400/000000/FFFFFF.png?text=SwiftUI+Basics",
-        "thumbnailUrl": "https://placehold.co/150x150/000000/FFFFFF.png?text=iOS",
+        "url": "https://picsum.photos/id/0/600/800",
+        "thumbnailUrl": "https://picsum.photos/id/0/300/400",
         "width": 600,
-        "height": 400
+        "height": 800
       },
       "stats": {
         "views": 4100,
