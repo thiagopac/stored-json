@@ -1,0 +1,307 @@
+{
+  "page": 1,
+  "limit": 10,
+  "total": 10,
+  "items": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Mountain Escape",
+      "subtitle": "A peaceful cabin trip",
+      "description": "A quiet weekend in the mountains with fresh air, trails and beautiful views.",
+      "category": "travel",
+      "tags": ["mountain", "nature", "weekend"],
+      "isFavorite": true,
+      "isFeatured": true,
+      "rating": 4.8,
+      "price": 129.9,
+      "createdAt": "2026-06-01T10:00:00Z",
+      "author": {
+        "id": 101,
+        "name": "Sophie Carter",
+        "avatarUrl": "https://placehold.co/100x100.png?text=SC"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/1E293B/FFFFFF.png?text=Mountain+Escape",
+        "thumbnailUrl": "https://placehold.co/150x150/1E293B/FFFFFF.png?text=Mountain",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 1240,
+        "likes": 312,
+        "comments": 18
+      }
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "City Lights",
+      "subtitle": "Night photography collection",
+      "description": "Urban lights, reflections and late-night street photography.",
+      "category": "photography",
+      "tags": ["city", "night", "street"],
+      "isFavorite": false,
+      "isFeatured": true,
+      "rating": 4.6,
+      "price": 89.5,
+      "createdAt": "2026-06-02T13:30:00Z",
+      "author": {
+        "id": 102,
+        "name": "Daniel Brooks",
+        "avatarUrl": "https://placehold.co/100x100.png?text=DB"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/111827/FACC15.png?text=City+Lights",
+        "thumbnailUrl": "https://placehold.co/150x150/111827/FACC15.png?text=City",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 980,
+        "likes": 201,
+        "comments": 11
+      }
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Minimal Workspace",
+      "subtitle": "Desk setup inspiration",
+      "description": "A clean workspace designed for focus, comfort and productivity.",
+      "category": "design",
+      "tags": ["workspace", "minimal", "productivity"],
+      "isFavorite": true,
+      "isFeatured": false,
+      "rating": 4.9,
+      "price": 59.0,
+      "createdAt": "2026-06-03T09:15:00Z",
+      "author": {
+        "id": 103,
+        "name": "Emma Wilson",
+        "avatarUrl": "https://placehold.co/100x100.png?text=EW"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/F3F4F6/111827.png?text=Workspace",
+        "thumbnailUrl": "https://placehold.co/150x150/F3F4F6/111827.png?text=Desk",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 2150,
+        "likes": 740,
+        "comments": 34
+      }
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "title": "Ocean Drive",
+      "subtitle": "Summer road trip",
+      "description": "A coastal route with beaches, cliffs and warm sunset colors.",
+      "category": "travel",
+      "tags": ["ocean", "roadtrip", "summer"],
+      "isFavorite": false,
+      "isFeatured": false,
+      "rating": 4.4,
+      "price": 149.99,
+      "createdAt": "2026-06-04T18:45:00Z",
+      "author": {
+        "id": 104,
+        "name": "Liam Foster",
+        "avatarUrl": "https://placehold.co/100x100.png?text=LF"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/0EA5E9/FFFFFF.png?text=Ocean+Drive",
+        "thumbnailUrl": "https://placehold.co/150x150/0EA5E9/FFFFFF.png?text=Ocean",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 760,
+        "likes": 144,
+        "comments": 9
+      }
+    },
+    {
+      "id": 5,
+      "albumId": 3,
+      "title": "Coffee Stories",
+      "subtitle": "Small café moments",
+      "description": "Warm interiors, coffee cups and quiet conversations.",
+      "category": "lifestyle",
+      "tags": ["coffee", "cafe", "lifestyle"],
+      "isFavorite": true,
+      "isFeatured": false,
+      "rating": 4.7,
+      "price": 24.9,
+      "createdAt": "2026-06-05T07:20:00Z",
+      "author": {
+        "id": 105,
+        "name": "Olivia Reed",
+        "avatarUrl": "https://placehold.co/100x100.png?text=OR"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/92400E/FFFFFF.png?text=Coffee+Stories",
+        "thumbnailUrl": "https://placehold.co/150x150/92400E/FFFFFF.png?text=Coffee",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 1340,
+        "likes": 420,
+        "comments": 27
+      }
+    },
+    {
+      "id": 6,
+      "albumId": 3,
+      "title": "Fitness Routine",
+      "subtitle": "Daily training plan",
+      "description": "Simple daily exercises for strength, mobility and consistency.",
+      "category": "health",
+      "tags": ["fitness", "routine", "training"],
+      "isFavorite": false,
+      "isFeatured": true,
+      "rating": 4.5,
+      "price": 39.9,
+      "createdAt": "2026-06-06T11:10:00Z",
+      "author": {
+        "id": 106,
+        "name": "Noah Bennett",
+        "avatarUrl": "https://placehold.co/100x100.png?text=NB"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/16A34A/FFFFFF.png?text=Fitness+Routine",
+        "thumbnailUrl": "https://placehold.co/150x150/16A34A/FFFFFF.png?text=Fit",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 1840,
+        "likes": 530,
+        "comments": 21
+      }
+    },
+    {
+      "id": 7,
+      "albumId": 4,
+      "title": "Modern Architecture",
+      "subtitle": "Shapes and shadows",
+      "description": "A visual collection focused on buildings, symmetry and contrast.",
+      "category": "architecture",
+      "tags": ["architecture", "modern", "urban"],
+      "isFavorite": false,
+      "isFeatured": false,
+      "rating": 4.3,
+      "price": 74.9,
+      "createdAt": "2026-06-07T15:00:00Z",
+      "author": {
+        "id": 107,
+        "name": "Mia Thompson",
+        "avatarUrl": "https://placehold.co/100x100.png?text=MT"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/334155/FFFFFF.png?text=Architecture",
+        "thumbnailUrl": "https://placehold.co/150x150/334155/FFFFFF.png?text=Build",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 650,
+        "likes": 98,
+        "comments": 7
+      }
+    },
+    {
+      "id": 8,
+      "albumId": 4,
+      "title": "Healthy Meals",
+      "subtitle": "Simple recipes",
+      "description": "Colorful and balanced meal ideas for everyday cooking.",
+      "category": "food",
+      "tags": ["food", "healthy", "recipes"],
+      "isFavorite": true,
+      "isFeatured": true,
+      "rating": 4.9,
+      "price": 19.9,
+      "createdAt": "2026-06-08T12:40:00Z",
+      "author": {
+        "id": 108,
+        "name": "Lucas Gray",
+        "avatarUrl": "https://placehold.co/100x100.png?text=LG"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/F97316/FFFFFF.png?text=Healthy+Meals",
+        "thumbnailUrl": "https://placehold.co/150x150/F97316/FFFFFF.png?text=Meals",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 3020,
+        "likes": 1200,
+        "comments": 85
+      }
+    },
+    {
+      "id": 9,
+      "albumId": 5,
+      "title": "Startup Notes",
+      "subtitle": "Ideas and experiments",
+      "description": "Notes about building, validating and launching small software products.",
+      "category": "business",
+      "tags": ["startup", "product", "ideas"],
+      "isFavorite": false,
+      "isFeatured": false,
+      "rating": 4.2,
+      "price": 0,
+      "createdAt": "2026-06-09T08:05:00Z",
+      "author": {
+        "id": 109,
+        "name": "Ava Morgan",
+        "avatarUrl": "https://placehold.co/100x100.png?text=AM"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/7C3AED/FFFFFF.png?text=Startup+Notes",
+        "thumbnailUrl": "https://placehold.co/150x150/7C3AED/FFFFFF.png?text=Notes",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 890,
+        "likes": 176,
+        "comments": 13
+      }
+    },
+    {
+      "id": 10,
+      "albumId": 5,
+      "title": "SwiftUI Basics",
+      "subtitle": "Learning by building",
+      "description": "A beginner-friendly collection for practicing SwiftUI, MVVM and networking.",
+      "category": "education",
+      "tags": ["swiftui", "ios", "mvvm"],
+      "isFavorite": true,
+      "isFeatured": true,
+      "rating": 5.0,
+      "price": 0,
+      "createdAt": "2026-06-10T14:25:00Z",
+      "author": {
+        "id": 110,
+        "name": "Thiago Castro",
+        "avatarUrl": "https://placehold.co/100x100.png?text=TC"
+      },
+      "image": {
+        "url": "https://placehold.co/600x400/000000/FFFFFF.png?text=SwiftUI+Basics",
+        "thumbnailUrl": "https://placehold.co/150x150/000000/FFFFFF.png?text=iOS",
+        "width": 600,
+        "height": 400
+      },
+      "stats": {
+        "views": 4100,
+        "likes": 1800,
+        "comments": 140
+      }
+    }
+  ]
+}
